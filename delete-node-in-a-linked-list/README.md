@@ -1,3 +1,4 @@
+[Discussion Post (created on 20/1/2021 at 19:44)](https://leetcode.com/problems/delete-node-in-a-linked-list/discuss/1074458/easy-one-line-solution-in-c%2B%2B)  
 <h2>237. Delete Node in a Linked List</h2><h3>Easy</h3><hr><div><p>Write a function to <strong>delete a node</strong> in a singly-linked list. You will <strong>not</strong> be given access to the <code>head</code> of the list, instead you will be given access to <strong>the node to be deleted</strong> directly.</p>
 
 <p>It is <strong>guaranteed</strong> that the node to be deleted is <strong>not a tail node</strong> in the list.</p>
