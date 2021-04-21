@@ -1,3 +1,4 @@
+[Discussion Post (created on 21/3/2021 at 12:27)](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/)  
 <h2>215. Kth Largest Element in an Array</h2><h3>Medium</h3><hr><div><p>Find the <strong>k</strong>th largest element in an unsorted array. Note that it is the kth largest element in the sorted order, not the kth distinct element.</p>
 
 <p><strong>Example 1:</strong></p>
