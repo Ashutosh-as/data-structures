@@ -1,10 +1,14 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        map<char,int>mp;
-        for(int i=0;i<sentence.size();i++){
-            mp[sentence[i]]++;
+        int arr[26]={0};
+        for(int i=0;i<sentence.length();i++){
+              arr[sentence[i]-'a']=1;
         }
-        return mp.size()==26;
+            for(int i=0;i<26;i++){
+                if(arr[i]==0) return false;
+            }
+         return true;
+       
     }
 };
